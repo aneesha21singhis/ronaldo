@@ -1,0 +1,16 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+.hhh{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a{
+    width: 400px;
+    border-radius: 30px;
+    background-color: lightcoral;
+    color: black;
+}
+
